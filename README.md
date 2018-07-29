@@ -26,4 +26,4 @@ Depending on configuration, the POST request will contain the following JSON Pac
 			"vbatt" : 4198
 		}
 	}
-}```
+} ```

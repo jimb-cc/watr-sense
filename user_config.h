@@ -1,6 +1,6 @@
 // -- Project -------------------------------------------
-#define CLIENT                  ""                    // Client ID for the ESP
-#define TYPE                    ""                    // Client ID for the ESP
+#define CLIENT                  ""                    // Client ID for the ESP (or something descriptive "Front Garden")
+#define TYPE                    ""                    // Type of Sensor ("Hornbill ESP32" or "Higrow" or "ESP8266" etc.)  
 
 // -- Wifi ----------------------------------------------
 #define WIFI_SSID               ""                    // Wifi SSID
